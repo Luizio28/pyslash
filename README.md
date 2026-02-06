@@ -29,7 +29,9 @@ O cursor piscando representa o seu personagem.
 Você pode regenerar o nível com Ctrl+N, carregar um nível salvo com Ctrl-L e salvar o nível atual com Ctrl-S.
 
 Itens:
+```
 1- Parede de Pedra (=)
 2- Tábua de Madeira (=)
 3- Piso de Madeira (+)
 4- Porta (Ω)
+```
